@@ -14,7 +14,7 @@ Free chess platform with:
 .exe
 [Download Chessium](https://github.com/Gebbycz/Project-Chessium/releases/tag/chess)
 
-.python
+.py
 [Download Chessium](https://github.com/Gebbycz/Project-Chessium/tree/main/Source-Code)
 
 ## Screenshots
