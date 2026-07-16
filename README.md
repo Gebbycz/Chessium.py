@@ -10,9 +10,11 @@ Free chess platform with:
 -  No ads
 -  Completely free
 
-## Download
-
-Download the latest release from the Releases section.
+## Downloads
+.exe
+[Download Chessium]https://github.com/Gebbycz/Project-Chessium/releases/tag/chess
+.python
+[Download Chessium]https://github.com/Gebbycz/Project-Chessium/tree/main/Source-Code
 
 ## Screenshots
 <img width="679" height="736" alt="image" src="https://github.com/user-attachments/assets/d4095ecf-b3ce-4006-93ae-34c2e63b9e5b" />
